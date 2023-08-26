@@ -1,0 +1,61 @@
+﻿html, body {
+    background: linear-gradient(to bottom, #b3e6ff 0%, #ffffff 100%);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form {
+    height: 100%;
+}
+
+.mi-div {
+    width: 100%;
+    padding: 45px 65px 45px 65px;
+    margin: 20px;
+    flex-direction: row;
+}
+
+.mi-div2 {
+    width: 100%;
+    padding: 45px 65px 45px 65px;
+    margin: 20px;
+}
+
+.mi-formulario {
+    padding: 10px 150px 10px 150px;
+    margin: 10px 150px 10px 150px;
+}
+
+
+#mi-div-pg {
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.mi-footer {
+    text-align: center;
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+
+.mi-header {
+    background: linear-gradient(to bottom, #d2a8ff 0%, #f2e6ff 100%);
+    margin: 0;
+    padding: 0;
+}
